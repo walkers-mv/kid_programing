@@ -132,7 +132,7 @@ if __name__ == "__main__":
     PF = Aviva.make_a_disk(Wolf)
     Martin.put_on_a_powersuit(PF)
     Martin.runs()
-    Martin.smellsx()
+    Martin.smells()
     Martin.use_my_defense()
     print()
 
